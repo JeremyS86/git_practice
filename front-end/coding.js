@@ -6,3 +6,8 @@ const minus = (num1, num2) => num1 - num2;
 console.log(minus(120, 35));
 
 console.log('branching and learning to merge');
+
+console.log('branching and learning to merge2');
+console.log('branching and learning to merge3');
+console.log('branching and learning to merge4');
+
