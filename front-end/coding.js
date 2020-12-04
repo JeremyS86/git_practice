@@ -11,3 +11,5 @@ console.log('branching and learning to merge2');
 console.log('branching and learning to merge3');
 console.log('branching and learning to merge4');
 
+console.log('branching and learning to merge5');
+console.log('branching and learning to merge6');
