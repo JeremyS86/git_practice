@@ -3,12 +3,12 @@
 
 
 >Course completion status: 15%
-## Table of Contents
+## __Table of Contents__
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Launch](#Launch)
 
-### Introduction
+## __Introduction__
 This course is aimed at teaching me Full-stack web development, from beginner level to advanced.
 
 Languages involved are:
