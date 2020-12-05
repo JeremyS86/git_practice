@@ -2,7 +2,7 @@
 # **_Full-Stack Developer - training (codecademy)_**
 
 
-
+>Course completion status: 15%
 ## Table of Contents
 * [Introduction](#introduction)
 * [Technologies](#technologies)
@@ -25,5 +25,10 @@ Languages involved are:
     * Node/Express.js
     * SQL
     * PostgreSQL
+
+Once course is complete, i will be able to start my career in full-stack development. whether that be as a junior developer or freelancer.
+>estimated salary as a junior developer: $80,000
+
+
 
 
