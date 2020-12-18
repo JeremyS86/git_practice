@@ -1,4 +1,4 @@
-![Full-Stack Developer](\Images\Full-stack-developer.png)
+![Full-Stack Developer](Images/Full-stack-developer.png)
 # **_Full-Stack Developer - training (codecademy)_**
 
 
