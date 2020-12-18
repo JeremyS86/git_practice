@@ -3,20 +3,37 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Document html</title>
 </head>
 <body>
-    <h1>HTML practice</h1>
-    <div>
-        <h2>Introduction</h2>
+    <header>
+        <h1>HTML practice</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#video">Video</a></li>
+            <li><a href="https://www.afl.com.au" target="_blank">AFL website</a></li>
+            <li><a href="#picture"><button>Picture</button></a></li>
+        </ul>
+    </nav> 
+    <form>
+        <label for="name">What is your name?</label>git bran
+        <input type="text" id="name">
+    </form>   
+    <section>
+        <h2 id="introduction">Introduction</h2>
         <p>This section of the course revolves around me learning all about <em>front-end development</em>.
             in which i will learn how to code in <strong>HyperText Markup Language</strong> (HTML)
         </p>
-        <img src="pic-img-vids/waterfall-pic.jpg" width="700" height="300" />
-    </div>
-    <video src="https://youtu.be/uxmB8MlO3m8" width="700" height="300" controls>
-        Video not supported
-    </video>
-    <p>blah blah  blah</p>
+    </section>
+    <main>
+        <figure>
+            <img id="picture" src="pic-img-vids/waterfall-pic.jpg" width="700" height="300" />
+            <figcaption>A Beautiful Waterfall</figcaption>
+        </figure>
+        <video id="video" src="pic-img-vids/Waterfall.mp4" width="700" height="300" controls>
+        Video not supported</video>
+    </main>        
 </body>
 </html>
