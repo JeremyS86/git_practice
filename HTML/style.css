@@ -1,8 +1,17 @@
 h1 {
     font-size: x-large;
-    background-color: aqua;
 }
 nav {
-    background-color: black;
+    
     display: block;
+    background-image: url('Images/waterfall-back.jpg');
+}
+body {
+    background-image: url('/Images/Full-stack-developer.png');
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+}
+.links {
+    color: green;
 }
